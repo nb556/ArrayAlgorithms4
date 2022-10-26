@@ -13,7 +13,7 @@ public class Main
         {
             if (i.equals(SearchFor))
             {
-                System.out.println(i);
+                System.out.println("found");
                 break;
             }
         }
